@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "description": "## Learning objectives - Write unit tests for a JavaScript app. - Use AAA pattern for unit tests. - Explain why testing code is important.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoniaKarungi/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoniaKarungi/testing-practice/issues"
+  },
+  "homepage": "https://github.com/SoniaKarungi/testing-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.0.3"
+  }
+}
